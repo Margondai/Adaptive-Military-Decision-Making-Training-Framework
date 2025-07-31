@@ -1,6 +1,5 @@
 # Adaptive-Military-Decision-Making-Training-Framework
 
-# Adaptive Military Decision-Making Training Framework
 
 Neuroadaptive simulation framework for military decision-making training leveraging IoT-derived cognitive and emotional feedback - MODSIM World 2025
 
