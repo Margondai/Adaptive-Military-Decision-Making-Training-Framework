@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ```python
 # Run the adaptive training simulation
-python Anamaria.py
+python adaptive_training_system.py
 ```
 
 The simulation will:
